@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning ... <br><br>
   Gatsby, Contentful CMS, AWS, Docker, Typescript
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... <br><br>
   React projects
   
-- 📫 How to reach me ...
+- 📫 How to reach me ... <br><br>
   lbaker1594@hotmail.com
 
