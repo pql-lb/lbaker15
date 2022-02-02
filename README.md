@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @lbaker15
-  http://portfolio.lbaker.s3-website.eu-west-2.amazonaws.com/
   
 - 👀 Languages I use ... <br><br>
   HTML5, CSS3, SASS, JavaScript, React, VueJs, Webpack, Gulp, WordPress, PHP, SQL, Shopify, AWS, Python, Heroku, NodeJs, npm, Linux
 
 - 🌱 I’m currently learning ... <br><br>
-  Gatsby, Contentful CMS, AWS, Docker, Typescript
+  Contentful CMS, AWS, Typescript
 
 - 💞️ I’m looking to collaborate on ... <br><br>
   React projects
